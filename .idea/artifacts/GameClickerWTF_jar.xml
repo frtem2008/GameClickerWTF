@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameClickerWTF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameClickerWTF_jar</output-path>
+    <root id="archive" name="GameClickerWTF.jar">
+      <element id="module-output" name="GameClickerWTF" />
+    </root>
+  </artifact>
+</component>
